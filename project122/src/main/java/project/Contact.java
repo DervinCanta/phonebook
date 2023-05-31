@@ -11,7 +11,6 @@ public class Contact {
         this.email = email;
     }
 
-    // Getters and setters for phoneNumber and email
 
     public String getName() {
         return name;
